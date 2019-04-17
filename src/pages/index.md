@@ -19,32 +19,31 @@ description: >-
 intro:
   blurbs:
     - image: /img/package-clock-image.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        A one hour virtual call to talk about any money topic!  It’s a
+        ‘financial-planner-on-call’ because sometimes we just have a quick
+        question where we need a trusted source for the answer.  This is the
+        open-door policy, ask anything no question is too small.
     - image: /img/package-resp-pic.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        You have enough things to worry about as a parent, your RESP shouldn’t
+        be one of them!  This RESP review can include walking you through the
+        best ways to set up an RESP, or reviewing the status of your current
+        RESP to make sure everything is on track!
     - image: /img/package-investment.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        One of the toughest money topics is investing.  There are so many
+        products that decisions about your RRSP and TFSA can be overwhelming. 
+        The Investment Inquiry is a deep dive into your accounts to ensure your
+        goals are aligned with the contribution amounts, fees and risk-level in
+        your portfolio.
     - image: /img/package-full-monty.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+
+        This is the full financial plan.  A comprehensive review of your
+        finances, leaving no stone or bitcoin unturned.  Included is a
+        complimentary, preliminary consultation to start the conversation about
+        your goals and needs.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
